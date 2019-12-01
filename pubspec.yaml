@@ -22,11 +22,6 @@ flutter:
 
 
   fonts:
-    - family: Cinzel
-      fonts:
-        - asset: fonts/Cinzel-Regular.ttf
-
-
     - family: VT323
       fonts:
         - asset: fonts/VT323-Regular.ttf
